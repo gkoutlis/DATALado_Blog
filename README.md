@@ -7,6 +7,21 @@ The application also includes a **draft → published** workflow and **role-base
 
 ---
 
+## 📸 Project Screenshots
+
+Ακολουθούν μερικά στιγμιότυπα από τη λειτουργία της εφαρμογής:
+
+### 1. Σελίδα Εισόδου (Login)
+<img src="imgs/log_in.jpg" alt="Login Page" width="600">
+
+### 2. Πίνακας Ελέγχου Διαχειριστή (Admin Dashboard)
+<img src="imgs/admin_dashboard.jpg" alt="Admin Dashboard" width="600">
+
+### 3. Δημιουργία Νέου Post από Χρήστη
+<img src="imgs/users_create_post.jpg" alt="User Create Post" width="600">
+
+---
+
 ## Features
 
 ### Public
