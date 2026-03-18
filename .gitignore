@@ -1,0 +1,24 @@
+# Python (Virtual Environments & Compiled files)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Node.js (Dependencies)
+node_modules/
+npm-debug.log*
+
+# VSCode (Local settings)
+.vscode/
+.history/
+
+# Operating System (Windows/Mac garbage)
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Environments / Secrets
+.env
+*.log
