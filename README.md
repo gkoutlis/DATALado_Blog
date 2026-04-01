@@ -162,5 +162,10 @@ Login page: http://127.0.0.1:8000/User_Login.php
 
     This keeps the application structure cleaner and avoids exposing internal logic directly.
 
+---
+## 📜 Credits & Context
+This project was developed as part of the **PHP-SQL** module at **KDBM Datalabs**.
+
+**Objective:** To demonstrate proficiency in server-side scripting, relational database design (MySQL), and implementing secure CRUD operations for dynamic content management.
 
     
